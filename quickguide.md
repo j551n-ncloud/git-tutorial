@@ -19,11 +19,13 @@ also when the code needs an merge and rebase.
 
 ## Inititialise an Git repo
 
-Git init
+
+<pre> ```bash Git init``` </pre> 
+
 
 
 ## Configure Git after Git init
-git config --global user.name 'Test bla bla bla'
+<pre> ```bash git config --global user.name 'Test bla bla bla' ``` </pre>
 
 git config --global user.email 'johannes.nguyen@dkfz-heidelberg.de'
 
