@@ -13,7 +13,7 @@ also when the code needs an merge and rebase.
 
 ## cheat-sheet for Git
 
-Git --version 
+<pre> ```bash Git --version``` </pre> 
 
 ### For looking up the Git version of the machine
 
